@@ -1,4 +1,11 @@
 ### Hi there 👋
+- I'm Manikandan Uthaman :slightly_smiling_face:
+- I'm a java developer :robot:
+- I'm interested in data structures and web development :technologist:
+- I'm ready to collaborate on interesting projects on Java, React and Javascript :handshake:
+- You can reach me by mail on manikandan.mit@outlook.com :incoming_envelope:
+- <a href="https://www.linkedin.com/in/manikandan-uthaman/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Manikandan-blue?logo=linkedin&style=flat-square&logoColor=white" alt="LinkedIn"></a>
+- <a href="https://leetcode.com/manikandan-uthaman/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Manikandan-blue?logo=leetcode&style=flat-square&logoColor=yellow&color=yellow" alt="LeetCode"></a>
 
 <!--
 **manikandan-uthaman/manikandan-uthaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
