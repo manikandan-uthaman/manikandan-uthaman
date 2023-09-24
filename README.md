@@ -4,7 +4,7 @@
 - I'm interested in data structures and web development :technologist:
 - I'm ready to collaborate on interesting projects on Java, React and Javascript :handshake:
 - You can reach me on [manikandan.mit@outlook.com](mailto:manikandan.mit@outlook.com?subject=Through_Github:) :incoming_envelope:
-- You can find my portfolio [here](https://manikandan-uthaman.netlify.app/) :globe_with_meridians:
+- You can find my portfolio <a href="https://manikandan-uthaman.netlify.app/" target="_blank">here</a> :globe_with_meridians:
 - <a href="https://www.linkedin.com/in/manikandan-uthaman/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Manikandan-blue?logo=linkedin&style=flat-square&logoColor=white" alt="LinkedIn"></a>
 - <a href="https://leetcode.com/manikandan-uthaman/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Manikandan-blue?logo=leetcode&style=flat-square&logoColor=yellow&color=yellow" alt="LeetCode"></a>
 
